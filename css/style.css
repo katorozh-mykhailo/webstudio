@@ -1,0 +1,9 @@
+:root {
+    --text-color: #212121;
+    --accent-color: #2196F3;
+    --desc-text-color: #757575;
+    --background-footer-color: #2F303A;
+    --footer-contact: rgba(255, 255, 255, 0.60);
+    --background-team-color: #F5F4FA;
+    --background-main-color: #fff;
+}
